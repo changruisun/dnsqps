@@ -9,7 +9,7 @@
 #define TYPE_REQ 0
 #define TYPE_RES 1
 
-#define INTERVAL 2 
+#define INTERVAL 1 
 
 volatile unsigned int response_count;
 volatile unsigned int request_count;
