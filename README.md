@@ -1,4 +1,5 @@
 # dnsqps
+## command
 dnsqps [interface] [server_ip] [server_port]
-Example:
-   ./dnsqps any 127.0.0.1 53
+## Example
+dnsqps any 127.0.0.1 53
