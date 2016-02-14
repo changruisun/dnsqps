@@ -1,4 +1,5 @@
 # dnsqps
+show dns qps tool
 ## command
 dnsqps [interface] [server_ip] [server_port]
 ## Example
